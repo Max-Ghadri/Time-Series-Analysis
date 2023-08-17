@@ -14,5 +14,4 @@ Folder PATH listing
 │   ├── star.csv
 │   └── tb.txt
 ├── LSTM - Time Series Analysis.ipynb
-├── README.md
 ```
